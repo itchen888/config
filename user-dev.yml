@@ -22,4 +22,4 @@ logging:
   level:
     com.itcast: debug
 
-test: admin
+test: admin111
